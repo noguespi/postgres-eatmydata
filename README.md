@@ -2,14 +2,15 @@
 
 Postgres using eatmydata to speedup integration tests.
 
-it will disable all call to fsync, data may be lost or corrupted at the end of the process. 
+it will disable all call to fsync, data may be lost or corrupted at the end of the process.
 
 Use it only for testing.
 
-Available versions : 
+Available versions :
 
 ```
 nogues/postgres-eatmydata:latest
+nogues/postgres-eatmydata:14
 nogues/postgres-eatmydata:13
 nogues/postgres-eatmydata:12
 nogues/postgres-eatmydata:11
