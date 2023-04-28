@@ -10,6 +10,7 @@ Available versions :
 
 ```
 nogues/postgres-eatmydata:latest
+nogues/postgres-eatmydata:15
 nogues/postgres-eatmydata:14
 nogues/postgres-eatmydata:13
 nogues/postgres-eatmydata:12
